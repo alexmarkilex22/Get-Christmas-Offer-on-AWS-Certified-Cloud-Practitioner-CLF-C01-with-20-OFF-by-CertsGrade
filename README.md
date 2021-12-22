@@ -11,7 +11,7 @@ This is a prominent Amazon Certification. Further, cultivate your learning limit
 <b>Exam Language:</b> English <br>
 <b>Promo Code For AWS-Certified-Cloud-Practitioner Dumps:</b> Q9FNHA42
 
-<a href="https://www.certsgrade.com/pdf/aws-certified-cloud-practitioner/" rel="no-follow"> <img src="https://scontent.flhe3-1.fna.fbcdn.net/v/t39.30808-6/p960x960/268617091_3037349063248691_6910145428045433636_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=AHuG02B_V_kAX9B4Hxw&_nc_ht=scontent.flhe3-1.fna&oh=00_AT8uDYldhEUuWSuixwzl0BQmpb5bv6aQbviS9Upzjt_UPw&oe=61BF357C"   alt="ExamsEmpire" style="max-width: 100%;"> </a>
+<a href="https://www.certsgrade.com/pdf/advanced-administrator/" rel="no-follow"> <img src="https://scontent.flhe5-1.fna.fbcdn.net/v/t39.30808-6/p960x960/267153739_3036626889987575_2436815548704275273_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=kUIasYtkmwQAX-fwF4N&_nc_ht=scontent.flhe5-1.fna&oh=00_AT877_bBv4vl9QQxskdzFof7XveshDFIl9DlkvJvZhvhrw&oe=61BEF4FB"   alt="CertsGrade-Christmas-Offer" style="max-width: 100%;"> </a>
 
 Get Free Demo: <a href="https://www.certsgrade.com/pdf/aws-certified-cloud-practitioner/">AWS-Certified-Cloud-Practitioner</a>
 
